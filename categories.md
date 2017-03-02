@@ -16,12 +16,12 @@ permalink: /categories/
 
 {% for item in (0..site.categories.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
-	<article>
+	
 	<h2 id="{{ this_word }}" class="tag-heading">{{ this_word }}</h2>
 		<ul>
     {% for post in site.categories[this_word] %}{% if post.title != null %}
       <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endif %}{% endfor %}
 		</ul>
-	</article><!-- /.hentry -->
+<!-- /.hentry -->
 {% endunless %}{% endfor %}
