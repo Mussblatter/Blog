@@ -2,8 +2,7 @@
 title: GOUTENOIR Samuel
 email: sam uel.goute noir@ gmail.c om
 description: > # this means to ignore newlines until "baseurl:"
-   Ingénieur en génie électrique et systèmes de commande, je suis passionné par la domotique, la robotique et tout ce qui se rapporte à l'automatisme.
-   Je suis curieux, polyvalent et jʼapprends vite. Je travaille souvent de manière autodidacte ce qui me permet d'être autonome et me rend adaptable à toutes situations. 
+  « The more you know, the less you carry »
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://mussblatter.github.io/" # the base hostname & protocol for your site
 twitter_username: Mussblatter
