@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pte à pizza"
+title:  "Pâte à pizza"
 date:   2017-01-03 18:00
 categories: Recettes Entrées
 ---
