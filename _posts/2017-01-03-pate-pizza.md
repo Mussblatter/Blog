@@ -5,7 +5,7 @@ date:   2017-01-03 18:00
 categories: Recettes Entrées
 ---
 
-{% include image.html url="/images/pate-pizza.png" caption="Pate à pizza" width=300 align="right" %}
+{% include image.html url="/images/pate-pizza.jpg" caption="Pate à pizza" width=300 align="right" %}
 
 **Ingrédients**
 
