@@ -16,7 +16,7 @@ categories: Recettes Entrées
 
 *Préparations*
 
-    1.Mélanger 20g de levure, 200g d'eau tiède et 50g de farine dans un bol.
-    2.Mettre 450g de farine dans un bol mixeur, avec une pincée de sel et sucre, 50g de lait, et l'huile d'olive.
-    3.Mixer jusqu'à obtention d'une pâte qui se décole.
-    4.Faire cuire 15-20 min à 220°C (7), tout en bas du four en chaleur tournante. 
+    1. Mélanger 20g de levure, 200g d'eau tiède et 50g de farine dans un bol.
+    2. Mettre 450g de farine dans un bol mixeur, avec une pincée de sel et sucre, 50g de lait, et l'huile d'olive.
+    3. Mixer jusqu'à obtention d'une pâte qui se décole.
+    4. Faire cuire 15-20 min à 220°C (7), tout en bas du four en chaleur tournante. 
