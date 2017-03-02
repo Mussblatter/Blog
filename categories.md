@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Categories
-description: "An archive of posts sorted by category."
-comments: false
 permalink: /categories/
-
 ---
 
 {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
