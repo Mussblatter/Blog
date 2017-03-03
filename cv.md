@@ -4,6 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-Vous pouvez téléchargez [mon CV au format PDF](CV_2017.pdf))
+Vous pouvez téléchargez [mon CV au format PDF](http://mussblatter.github.io/CV_2017.pdf)
 
 
