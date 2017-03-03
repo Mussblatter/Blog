@@ -28,6 +28,12 @@ Pour envoyer au repo :
 * `git commit -a -m "message"`
 * `git push origin`
 
+Pour enregistrer le pseudo et mot de passe : `git config credential.helper cache`
+
+Pour qu’il ne s’en souvienne que pour une durée limitée (temps en secondes) : `git config credential.helper 'cache --timeout=3600'`
+
+Et si vous souhaitez qu’il oublie le login/mot de passe avant le délai d’expiration, il suffit de tuer le démon avec : `git credential-cache exit`
+
 # Markdown syntaxe
 
 ### Images
