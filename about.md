@@ -13,6 +13,8 @@ permalink: /about/
    Je travaille actuellement à temps plein chez [Plastic Omnium](http://plasticomnium.com) en tant qu'ingénieur en électronique. Je  développe principalement des prototypes (applications, pilotages divers,...) pour tout types de systèmes mécatroniques ainsi que des démonstrateurs pour les salons automobiles. Le dernier en date étant le Salon Auto de Paris 2016.
    
    {% include image.html url="/images/007-ucelec.png" caption="UCELEC" width=300 align="left" %}
+   
+   ![UCELEC](/images/007-ucelec.png)
 
    J'ai également crée une Micro Entreprise [UCELEC](http://ucelec.fr) où je propose mes services (développement de systèmes embarqués, mécatroniques, électronique,...) dans tous les domaines (automobile, aéronautique, agricole,...).
 
