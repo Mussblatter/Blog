@@ -20,19 +20,31 @@ categories: Categorie1 Categorie2
 
 # Utilisation de Git
 
-Pour cloner un repo : `git clone repo_url.git`
+Pour cloner un repo :
 
-Pour récupérer du repo : `git pull`
+`git clone repo_url.git`
+
+Pour récupérer du repo :
+
+`git pull`
 
 Pour envoyer au repo :
-* `git commit -a -m "message"`
-* `git push origin`
 
-Pour enregistrer le pseudo et mot de passe : `git config credential.helper cache`
+ `git commit -a -m "message"`
 
-Pour qu’il ne s’en souvienne que pour une durée limitée (temps en secondes) : `git config credential.helper 'cache --timeout=3600'`
+ `git push origin`
 
-Et si vous souhaitez qu’il oublie le login/mot de passe avant le délai d’expiration, il suffit de tuer le démon avec : `git credential-cache exit`
+Pour enregistrer le pseudo et mot de passe :
+
+`git config credential.helper cache`
+
+Pour qu’il ne s’en souvienne que pour une durée limitée (temps en secondes) :
+
+`git config credential.helper 'cache --timeout=3600'`
+
+Et si vous souhaitez qu’il oublie le login/mot de passe avant le délai d’expiration, il suffit de tuer le démon avec :
+
+`git credential-cache exit`
 
 # Markdown syntaxe
 
