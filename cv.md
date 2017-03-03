@@ -4,6 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-A venir...
+Vous pouvez téléchargez [mon CV au format PDF](http://CV_2017.pdf))
 
 
