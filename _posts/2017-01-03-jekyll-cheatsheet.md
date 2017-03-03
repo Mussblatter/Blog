@@ -20,6 +20,14 @@ categories: Categorie1 Categorie2
 
 # Utilisation de Git
 
+Pour cloner un repo : `git clone repo_url.git`
+
+Pour récupérer du repo : `git pull`
+
+Pour envoyer au repo :
+* `git commit -a -m "message"`
+* `git push origin`
+
 # Markdown syntaxe
 
 ### Images
