@@ -5,23 +5,23 @@ date:   2017-02-03 18:00
 categories: Recettes Entrées
 ---
 
-{% include image.html url="/images/pate-pizza.jpg" caption="Pate à pizza" width=500 align="center" %}
 
-![Image](/images/pate-pizza.jpg)
+![Image](/images/pain-levain.jpg)
 
 
 **Ingrédients**
 
-* 500g de farine
-* 200g d'eau
-* 50g de lait
-* une c.a.s d'huile d'olive
-* une pincée de sucre et sel
-* 20g de levure sèche
+* 400g farine
+* 10g de sel
+* 100g de levain naturelle
+* 20cl d'eau
 
 **Préparations**
 
-1. Mélanger 20g de levure, 200g d'eau tiède et 50g de farine dans un bol.
-2. Mettre 450g de farine dans un bol mixeur, avec une pincée de sel et sucre, 50g de lait, et l'huile d'olive.
-3. Mixer jusqu'à obtention d'une pâte qui se décole.
-4. Faire cuire 15-20 min à 220°C (7), tout en bas du four en chaleur tournante.
+1. Débuter le pétrissage pour mélanger les ingrédients.
+2. Laisser reposer 30min avec un torchon humide sur le bol
+3. Finir le pétrissage
+4. Laisser reposer 10h-12h pour laisser monter la pâte
+5. Faire un paton et le scarifier
+6. Cuire à 220°c (thermostat 7-8) avec un verre d'eau
+7. Laisser refroidir tranquillement en dehors du four sous un torchon
