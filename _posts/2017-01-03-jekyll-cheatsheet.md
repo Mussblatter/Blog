@@ -55,3 +55,11 @@ Et si vous souhaitez qu’il oublie le login/mot de passe avant le délai d’ex
 ### Liens
 
 `[Title](url)`
+
+### Tableaux
+
+~~~
+| Pays   | Nombre d'habitants |
+| ------ |: -----------------:|
+| France | 75M                |
+~~~

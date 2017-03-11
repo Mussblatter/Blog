@@ -16,6 +16,8 @@ permalink: blog/:year/:month/:title
 job.title: "Electronic Engineer"
 excerpt_separator: "<!--more-->"
 
+google_analytics:  UA-9606554-4 
+
 # SEO stuff
 # google_author: ""
 # google_site_verification: ""

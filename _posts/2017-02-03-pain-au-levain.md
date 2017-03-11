@@ -13,7 +13,7 @@ categories: Recettes Entrées
 
 * 400g farine
 * 10g de sel
-* 100g de levain naturelle
+* 200g de levain naturelle
 * 20cl d'eau
 
 **Préparations**
